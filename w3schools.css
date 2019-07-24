@@ -1,0 +1,32 @@
+div {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+.center {
+  text-align: center;
+  border: 7px solid green;
+  font-family:comic sans MS;
+  background:blue;  
+}
+.col-sm {
+	border: 7px solid pink;
+	background:pink;
+}
+.freetext {
+	  text-align: center;
+  border: 200px solid green;
+  font-family:comic sans MS;
+  background:blue; 
+}
+.david {
+	width: 300px;
+  	padding: 50px;
+ 	margin: 20px;
+}
+#loopi {
+	width: 300px;
+  	padding: 50px;
+  	margin: 20px;
+
+}
